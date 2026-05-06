@@ -321,6 +321,7 @@ Labelling_Audio_Depth/
 
 Potential future improvements include:
 
+* Ground Truth annotation
 * FastAPI deployment
 * Dockerized inference service
 * GPU inference optimization
