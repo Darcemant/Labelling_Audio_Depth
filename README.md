@@ -21,6 +21,22 @@ A working Gradio interface was successfully developed for local deployment and r
 
 ---
 
+# Demo Video
+
+A walkthrough of the project and live Gradio interface demonstration can be viewed here:
+
+[Project Loom Demo](https://www.loom.com/share/513218866bd0495db8036f7f287c06ab)
+
+---
+
+# Presentation
+
+Project presentation slides can be found here:
+
+[Project Presentation](Labelling_Audio_Depth/reports/Labelling Audio Depth.pptx)
+
+---
+
 # Research Context
 
 This project was built from the following foundational studies:
