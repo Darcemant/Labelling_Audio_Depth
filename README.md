@@ -33,7 +33,7 @@ A walkthrough of the project and live Gradio interface demonstration can be view
 
 Project presentation slides can be found here:
 
-[Project Presentation](Labelling_Audio_Depth/reports/Labelling Audio Depth.pptx)
+[Project Presentation](reports/Labelling_Audio_Depth.pptx)
 
 ---
 
